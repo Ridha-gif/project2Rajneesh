@@ -154,4 +154,13 @@ font-family:'Times New Roman', Times, serif;
     .blacks{
         display:block
     }
+      .kkm{
+        border-width: 20px;
+    }
+    #img2
+    {
+        width:350px;
+        left:90px;
+        top:80px;
+    } 
 }
